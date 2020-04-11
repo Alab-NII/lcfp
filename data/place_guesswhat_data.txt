@@ -1,0 +1,11 @@
+To use guesswhat corpus, locate related files here.
+
+guesswhat corpus
+data/guesswhat.train.jsonl
+data/guesswhat.valid.jsonl
+data/guesswhat.test.jsonl
+
+coco2014 images
+data/img/train2014
+data/img/val2014
+data/img/test2014
