@@ -1,0 +1,13 @@
+To use onecommon corpus, locate related files here.
+Run convert_onecommon_data.py script to get converted files and images.
+
+onecommon corpus
+onecommon_data/train.txt
+onecommon_data/train_success_only.txt
+onecommon_data/train_uncorrelated.txt
+onecommon_data/valid.txt
+onecommon_data/valid_success_only.txt
+onecommon_data/valid_uncorrelated.txt
+onecommon_data/test.txt
+onecommon_data/test_success_only.txt
+onecommon_data/test_uncorrelated.txt
